@@ -2,6 +2,8 @@
 ## インストール
 ### iTerm2
 webでインストール
+- 無限にスクロール  
+「Preferences → Profiles → Terminal → Unlimited scrollback」
 ### brew
 - 公式ページ  
 https://brew.sh/index_ja.html  
