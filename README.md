@@ -13,5 +13,3 @@ https://brew.sh/index_ja.html
 https://qiita.com/unsoluble_sugar/items/14bea376d8e6fce82eb3
 ### VS Code
 webから
-### Source tree
-`brew install sourcetree`
